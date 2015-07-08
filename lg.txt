@@ -1,0 +1,7 @@
+* 24967f1 (origin/master, origin/HEAD) dir.txt
+| * f98a728 (HEAD, origin/draft, draft) Revert "A file that I'll regret"
+| * 8f0baa9 A file that I'll regret
+|/  
+* f3b9d90 (master) Removed all the cats
+* 575edb9 Add all the octocat txt files
+* 9294116 Added cute octocat story
