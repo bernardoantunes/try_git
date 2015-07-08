@@ -1,0 +1,10 @@
+* 52fb0a6 (master) status2.txt
+* b9c53df Status.txt
+| * cff13f0 (HEAD, origin/draft, draft) lg.txt
+| * a798f93 Revert "A file that I'll regret"
+| * 699b094 A file that I'll regret
+|/  
+* 24967f1 (origin/master, origin/HEAD) dir.txt
+* f3b9d90 Removed all the cats
+* 575edb9 Add all the octocat txt files
+* 9294116 Added cute octocat story
