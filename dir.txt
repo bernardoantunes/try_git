@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F483-5C55
+
+ Directory of C:\Code\try_git_2
+
+2015-07-09  00:53    <DIR>          .
+2015-07-09  00:53    <DIR>          ..
+2015-07-09  00:53                 0 dir.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  185ÿ962ÿ975ÿ232 bytes free
